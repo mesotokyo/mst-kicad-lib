@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002DW
+D SOT363
+K DUAL N-CHANNEL ENHANCEMENT MODE MOSFET
+$ENDCMP
+#
+$CMP EC12PLRGBSDVBF-D-25K-24-24C-61-08-6H
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+#End Doc Library
